@@ -2,7 +2,7 @@
 Chinook Music Database Analysis – Comprehensive analysis of the Chinook Music Database using SQL and Excel. Includes data cleaning, sales trends, artist performance, customer behavior insights, product affinity, and churn segmentation to support data-driven business decisions.
 
 ### 📂 Project Database
-You can view the full Chinook Music Database project and dashboard here:
+You can view the full Chinook Music Database here:
 
 [Access Chinook Music Database (Excel)](https://drive.google.com/file/d/1nGhcd_eeaIiKb8_UPBykxH1_OxMupi5M/view)
 
