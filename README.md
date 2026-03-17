@@ -4,7 +4,7 @@ Chinook Music Database Analysis – Comprehensive analysis of the Chinook Music 
 ### 📂 Project Database
 You can view the full Chinook Music Database here:
 
-[Access Chinook Music Database (Excel)](https://drive.google.com/file/d/1nGhcd_eeaIiKb8_UPBykxH1_OxMupi5M/view)
+[Access Chinook Music Database](https://drive.google.com/file/d/1nGhcd_eeaIiKb8_UPBykxH1_OxMupi5M/view)
 
 # 📋 Project Overview
 This repository contains a comprehensive data analysis project based on the Chinook Music Database (a sample database representing a digital media store). The project involves querying, cleaning, and analyzing sales, customer, and inventory data using MySQL to derive actionable business insights and strategic recommendations.
